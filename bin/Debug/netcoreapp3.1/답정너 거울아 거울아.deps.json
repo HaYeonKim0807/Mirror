@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "답정너 거울아 거울아/1.0.0": {
+        "runtime": {
+          "답정너 거울아 거울아.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "답정너 거울아 거울아/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
